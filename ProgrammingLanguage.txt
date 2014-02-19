@@ -1,0 +1,9 @@
+PHP for Android project (PFA)
+http://www.phpforandroid.net/doku.php
+
+python-for-android
+http://code.google.com/p/python-for-android/
+
+
+http://www.defuze.org/archives/228-running-cherrypy-on-android-with-sl4a.html
+

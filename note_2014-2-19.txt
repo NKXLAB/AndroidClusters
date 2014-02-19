@@ -1,0 +1,4 @@
+ÏîÄ¿²Î¿¼£º
+¡¾1¡¿http://www.southampton.ac.uk/~sjc/raspberrypi/pi_supercomputer_southampton.htm pi-supercomputer
+¡¾2¡¿http://www.zdnet.com/build-your-own-supercomputer-out-of-raspberry-pi-boards-7000015831/
+¡¾3¡¿www.cl.cam.ac.uk/projects/raspberrypi/
